@@ -17,8 +17,9 @@ The **Gas Billing System** is a Python-based project developed to manage gas com
 
 The project consists of three main Python files:
 
-1.  **Main File**: Controls the main program flow.
-2.  **Functions Files**: Contains functions for interacting with the database (e.g., adding customers, generating bills).
+1.  **main.py**: Controls the main program flow.
+2.  **setup_db.py**: Contains functions related to creating the database.
+3.  **utils.py**: Contains functions related to working of the Gas Billing System.
 
 ## Built-in Modules and Libraries Used
 
